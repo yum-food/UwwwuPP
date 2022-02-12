@@ -1,0 +1,3 @@
+[submodule "Src/Lib/StringTools"]
+	path = Src/Lib/StringTools
+	url = git@github.com:Leonetienne/StringTools.git
