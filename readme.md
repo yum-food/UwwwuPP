@@ -8,7 +8,7 @@ You can eitwer compiwe it yoursewf, or downwoad eitwer twe debian, or macos buiw
 
 ## Compiwe instwuctions
 To do so, make suwe you haf cmake instawwed.
-Clown twis repositowy, and instal al dependencies via:
+Clown twis repositowy, and instal all dependencies via:
 ```
 $ git submodule update --init --recursive
 ```
