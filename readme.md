@@ -13,8 +13,8 @@ Clown twis repositowy, and instal al dependencies via:
 $ git submodule update --init --recursive
 ```
 
-If it won't pul, you might haf to switch twe submoduwes remotes out for tweir https-vawiants. Twey awe git@ by defauwt.
-Twen <3 al you haf to do is to start twe mega ct3.14 buiwd:
+If it won't pull, you might haf to switch twe submoduwes remotes out for tweir https-vawiants. Twey awe git@ by defauwt.
+Twen <3 all you haf to do is to start twe mega ct3.14 buiwd:
 ```
 $ cmake . && make
 ```
