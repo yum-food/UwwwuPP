@@ -30,10 +30,10 @@ $ cd Src/
 $ cmake . && make
 ```
 
-Lastwy, vewify twat your buiwd works
+Lastwy, vewify twat your buiwd works corwectwy
 ```
-$ ./Uwwwu Hi, thanks for checking by!
-Hiiiiiii, you're twe best :33 xoxo for checking by!
+$ ./Uwwwu Hello, thanks for paying this repository a visit :D
+Hiiiiiiiiiiiii, you're twe best :33 xoxo for paaaying twis repositowy a visit :3
 ```
 
 :33333 enyoi <3
