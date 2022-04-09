@@ -27,14 +27,14 @@ $ git submodule update --init --recursive
 If they won't pull, you might have to switch the submodules remotes out for their
 https-variants. They are git@ by default, which requires your ssh to be set up with github.
 Then all you have to do is to start the build:
-```sh
+```
 $ cmake Src -B build
 $ cd build
 $ make
 ```
 
 Lastly, verify that your build works correctly:
-```sh
+```
 $ ./Uwwwu Hello, thanks for paying this repository a visit :D
 Hiiiiiiiiiiiii, you're twe best :33 xoxo for paaaying twis repositowy a visit :3
 ```
