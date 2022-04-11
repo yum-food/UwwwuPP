@@ -10,34 +10,34 @@
 [![uwu](https://img.shields.io/badge/eviw%20pwopwietawy%20softwawe%3f-nyeva%20eva-44AAFA)](https://github.com/Leonetienne/UwwwuPP)
 [![uwu](https://img.shields.io/badge/badges%3f-all%20of%20twem-AA44AA)](https://github.com/Leonetienne/UwwwuPP)
 
-I was looking for an uwwwwwuifia twat suwppowted input fwom
-stdin and fwom pawametews, twat doesn't nyeed 500.000 bwoated dependencies to wowk.
-So i made twis.
+I was looking for an uwwwwwuifier that supported input from
+stdin and from parameters, that doesn't need 500.000 bloated dependencies to work.
+So i made this.
 
-You do haf to compiwe it y-youwsewf. I do nyot fancy pwoviding a hundwed diffewent binyawies
-for each distwibution. But it is reawwy easy.
+You do have to compile it yourself. I do not fancy providing a hundred different binaries
+for each distribution. But it is really easy.
 
-## Compiwe instwuctions
-To do so, make suwe you haf cmake instawwed.
-Cwone twis repositowy, and install all dependencies via:
+## Compile instructions
+To do so, make sure you have cmake installed.
+Clone this repository, and install all dependencies via:
 ```
 $ git submodule update --init --recursive
 ```
 
-If tweeey won't pull, you might haf to switch twe submoduwes remotes out for tweir
-https-vawiants. Tweeey awe git@ by defauwt, whiiiiiiich requiwes your ssh to be set uwp witw gitwub.
-Twen all you haf to do is to stawt twe buiwd:
+If they won't pull, you might have to switch the submodules remotes out for their
+https-variants. They are git@ by default, which requires your ssh to be set up with github.
+Then all you have to do is to start the build:
 ```
 $ cmake Src -B build
 $ cd build
 $ make
 ```
 
-Lastwy, vewify twat your buiwd wowks cowwectwy:
+Lastly, verify that your build works correctly:
 ```
 $ ./Uwwwu Hello, thanks for paying this repository a visit :D
 Hiiiiiiiiiiiii, you're twe best :33 xoxo for paaaying twis repositowy a visit :3
 ```
 
-:33333 enyyoi <3
+:33333 enyoi <3
 
