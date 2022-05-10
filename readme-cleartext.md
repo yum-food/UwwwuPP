@@ -24,8 +24,6 @@ Clone this repository, and install all dependencies via:
 $ git submodule update --init --recursive
 ```
 
-If they won't pull, you might have to switch the submodules remotes out for their
-https-variants. They are git@ by default, which requires your ssh to be set up with github.
 Then all you have to do is to start the build:
 ```
 $ cmake Src -B build

@@ -1,4 +1,3 @@
 [submodule "Src/Lib/StringTools"]
 	path = Src/Lib/StringTools
-	url = git@gitea.leonetienne.de:leonetienne/StringTools.git
-
+	url = https://gitea.leonetienne.de/leonetienne/StringTools.git

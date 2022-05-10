@@ -24,8 +24,6 @@ Cwone twis repositowy, and install all dependencies via:
 $ git submodule update --init --recursive
 ```
 
-If tweeey won't pull, you might haf to switch twe submoduwes remotes out for tweir
-https-vawiants. Tweeey awe git@ by defauwt, whiiiiiiich requiwes your ssh to be set uwp witw gitwub.
 Twen all you haf to do is to stawt twe buiwd:
 ```
 $ cmake Src -B build
