@@ -1,3 +1,3 @@
 [submodule "Src/Lib/StringTools"]
 	path = Src/Lib/StringTools
-	url = https://gitea.leonetienne.de/leonetienne/StringTools.git
+	url = https://github.com/yum-food/StringTools
